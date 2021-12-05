@@ -1,0 +1,25 @@
+{
+  "name": "advanced-css-practice",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marco-pontes/advanced-css-practice.git"
+  },
+  "author": "Marco Aurelio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marco-pontes/advanced-css-practice/issues"
+  },
+  "homepage": "https://github.com/marco-pontes/advanced-css-practice#readme",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  },
+  "prettier": {
+    "printWidth": 100
+  }
+}
