@@ -9,3 +9,5 @@ https://coverr.co/
 
 Cubic bezier curves: https://easings.net/
 http://cubic-bezier.com
+
+Browser use stats: https://gs.statcounter.com/

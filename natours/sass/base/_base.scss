@@ -8,8 +8,24 @@
 
 html {
   font-size: 62.5%;
+
+  @include query(tab-land) {
+    font-size: 56.25%;
+  }
+
+  @include query(tab-port) {
+    font-size: 50%;
+  }
+
+  @include query(big-desktop) {
+    font-size: 75%;
+  }
 }
 
 body {
   box-sizing: border-box;
+  padding: 3rem;
+  @include query(tab-port) {
+    padding: 0;
+  }
 }
