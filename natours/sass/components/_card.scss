@@ -171,7 +171,7 @@
     font-weight: 100;
   }
 
-  @include query(tab-port) {
+  @include query(tab-port-no-hover) {
     height: auto;
     border-radius: 3px;
     background-color: $color-white;
