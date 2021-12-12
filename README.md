@@ -13,3 +13,5 @@ http://cubic-bezier.com
 Browser use stats: https://gs.statcounter.com/
 
 Device test page: https://sizzy.co
+
+Browser support website: https://caniuse.com
