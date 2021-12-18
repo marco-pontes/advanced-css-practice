@@ -19,3 +19,5 @@ Browser use stats: https://gs.statcounter.com/
 Device test page: https://sizzy.co
 
 Browser support website: https://caniuse.com
+
+Vector icons: https://icomoon.io
