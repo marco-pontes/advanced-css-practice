@@ -21,3 +21,7 @@ Device test page: https://sizzy.co
 Browser support website: https://caniuse.com
 
 Vector icons: https://icomoon.io
+
+HTML glyphs
+
+https://css-tricks.com/snippets/html/glyphs/
