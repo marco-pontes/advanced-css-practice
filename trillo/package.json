@@ -7,11 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch:sass": "node-sass ./sass/main.scss ./build/css/style.css -w",
     "dev-server": "live-server",
-    "start": "npm-run-all --parallel dev-server watch:sass",
+    "start": "npm-run-all --parallel dev-server watch:sass copy:images",
     "compile:sass": "node-sass ./sass/main.scss ./build/css/style.comp.css",
+    "copy:images": "copy ./img/* ./img/**/* ./build",
     "prefix:css": "postcss --use autoprefixer -b 'last 10 versions' ./build/css/style.comp.css -o ./build/css/style.prefix.css",
     "compress:css": "node-sass ./build/css/style.prefix.css ./build/css/style.css --output-style compressed",
-    "build:css": "npm-run-all compile:sass prefix:css compress:css"
+    "build:css": "npm-run-all compile:sass prefix:css compress:css copy:images"
   },
   "author": "Marco",
   "license": "ISC",
