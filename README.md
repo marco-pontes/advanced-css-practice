@@ -1,5 +1,6 @@
 # advanced-css-practice
 
+Course: https://www.udemy.com/course/advanced-css-and-sass/
 
 SASS Functions, mixins, variables, nesting, extends(%) sandbox(Codepen):
 https://codepen.io/marco_pontes/pen/eYGNYBa?editors=1100
