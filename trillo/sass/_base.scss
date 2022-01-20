@@ -33,6 +33,40 @@ Grey dark 3: #999
   --line: 1px solid var(--color-grey-light-2);
 }
 
+$bp-largest: 75em; //1200px
+$bp-large: 68.75em; //1100px
+$bp-medium: 56.25em; //900px
+$bp-small: 37.5em; //600px
+$bp-smallest: 31.25em; //500px
+
+/*
+$breakpoint values
+- phone
+- large
+- largest
+*/
+
+@mixin query($breakpoint) {
+  @if $breakpoint == phone {
+    //600px
+    @media only screen and (max-width: 37.5em) {
+      @content;
+    }
+  }
+  @if $breakpoint == large {
+    //1100px
+    @media only screen and (max-width: 68.75em) {
+      @content;
+    }
+  }
+  @if $breakpoint == largest {
+    //1200px
+    @media only screen and (max-width: 75em) {
+      @content;
+    }
+  }
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -47,6 +81,10 @@ Grey dark 3: #999
 html {
   box-sizing: border-box;
   font-size: 62.5%;
+
+  @media only screen and (max-width: $bp-large) {
+    font-size: 50%;
+  }
 }
 
 body {
