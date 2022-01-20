@@ -2,6 +2,8 @@
 
 Course: https://www.udemy.com/course/advanced-css-and-sass/
 
+CSS Grid Sandbox: https://codepen.io/marco_pontes/pen/bGoPezj?editors=1100
+
 SASS Functions, mixins, variables, nesting, extends(%) sandbox(Codepen):
 https://codepen.io/marco_pontes/pen/eYGNYBa?editors=1100
 
