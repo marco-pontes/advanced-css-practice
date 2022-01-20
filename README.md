@@ -29,3 +29,6 @@ Vector icons: https://icomoon.io
 HTML glyphs
 
 https://css-tricks.com/snippets/html/glyphs/
+
+
+CSS Built in Colors: https://www.w3schools.com/cssref/css_colors.asp
