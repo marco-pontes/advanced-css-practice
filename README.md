@@ -10,6 +10,7 @@ CSS Page Layout Challenge(Alternative Solution - Naming Grid Tracks): https://co
 
 CSS Page Layout Challenge(Alternative Solution - Naming Grid Areas): https://codepen.io/marco_pontes/pen/jOGjLzO?editors=1100
 
+CSS Grids(Implicit/Explicit): https://codepen.io/marco_pontes/pen/KKyPxqr?editors=1100
 
 Flex properties sandbox(Codepen):
 https://codepen.io/marco_pontes/pen/XWeNPrz?editors=1100
