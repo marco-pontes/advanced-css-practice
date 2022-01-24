@@ -18,7 +18,6 @@ https://codepen.io/marco_pontes/pen/XWeNPrz?editors=1100
 SASS Functions, mixins, variables, nesting, extends(%) sandbox(Codepen):
 https://codepen.io/marco_pontes/pen/eYGNYBa?editors=1100
 
-
 Videos for webpages
 https://coverr.co/
 
