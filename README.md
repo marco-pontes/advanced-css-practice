@@ -6,7 +6,10 @@ CSS Grid Sandbox: https://codepen.io/marco_pontes/pen/bGoPezj?editors=1100
 
 CSS Page Layout Challenge: https://codepen.io/marco_pontes/pen/mdBZOae?editors=1100
 
-CSS Page Layout Challenge(Alternative Solution - Naming Grid Tracks): https://codepen.io/marco_pontes/pen/MWEMmRG?editors=1100)
+CSS Page Layout Challenge(Alternative Solution - Naming Grid Tracks): https://codepen.io/marco_pontes/pen/MWEMmRG?editors=1100
+
+CSS Page Layout Challenge(Alternative Solution - Naming Grid Areas): https://codepen.io/marco_pontes/pen/jOGjLzO?editors=1100
+
 
 Flex properties sandbox(Codepen):
 https://codepen.io/marco_pontes/pen/XWeNPrz?editors=1100
