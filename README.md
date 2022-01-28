@@ -16,6 +16,8 @@ CSS Grids(Aligning Items): https://codepen.io/marco_pontes/pen/WNXeVpJ
 
 CSS Grids(Aligning Tracks): https://codepen.io/marco_pontes/pen/jOaNgae
 
+CSS Grids(min-content, max-content, minmax()): https://codepen.io/marco_pontes/pen/podJwNJ
+
 Flex properties sandbox(Codepen):
 https://codepen.io/marco_pontes/pen/XWeNPrz?editors=1100
 
