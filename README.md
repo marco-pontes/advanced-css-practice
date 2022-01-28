@@ -18,6 +18,8 @@ CSS Grids(Aligning Tracks): https://codepen.io/marco_pontes/pen/jOaNgae
 
 CSS Grids(min-content, max-content, minmax()): https://codepen.io/marco_pontes/pen/podJwNJ
 
+Css Responsive Grid(auto-fill, auto-fit): https://codepen.io/marco_pontes/pen/VwrLWqV?editors=1100 
+
 Flex properties sandbox(Codepen):
 https://codepen.io/marco_pontes/pen/XWeNPrz?editors=1100
 
