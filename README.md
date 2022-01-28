@@ -12,6 +12,8 @@ CSS Page Layout Challenge(Alternative Solution - Naming Grid Areas): https://cod
 
 CSS Grids(Implicit/Explicit): https://codepen.io/marco_pontes/pen/KKyPxqr?editors=1100
 
+CSS Grids(Align items): https://codepen.io/marco_pontes/pen/WNXeVpJ
+
 Flex properties sandbox(Codepen):
 https://codepen.io/marco_pontes/pen/XWeNPrz?editors=1100
 
